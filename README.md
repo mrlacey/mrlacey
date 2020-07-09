@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm currently juggling lits of different things and need to find time to write a better README!
+
 <!--
 **mrlacey/mrlacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
