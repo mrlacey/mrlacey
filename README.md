@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Recent blog posts
+#### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to do handle Master-Detail scenarios badly](http://feedproxy.google.com/~r/MattLacey/~3/j_SN0B_54oI/how-to-do-handle-master-detail.html)
 - [Fixing a really common misunderstanding about nuget.exe ](http://feedproxy.google.com/~r/MattLacey/~3/JtqTPFjcDtc/fixing-really-common-misunderstanding.html)
@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - [Never set 'Copy To Output Directory' to 'Copy always'](http://feedproxy.google.com/~r/MattLacey/~3/RzNgG6FUQYs/never-set-copy-to-output-directory-to.html)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlacey)
