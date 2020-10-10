@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 tips for contributing to Open Source](http://feedproxy.google.com/~r/MattLacey/~3/R-aY-G_y1d8/6-tips-for-contributing-to-open-source.html)
 - [Living the open-source Utopian dream](http://feedproxy.google.com/~r/MattLacey/~3/izpqY9GGn7w/briefly-living-open-source-utopian-dream.html)
 - [What's in the Universal device family API contracts](http://feedproxy.google.com/~r/MattLacey/~3/plEC-cmOQeI/whats-in-universal-device-family-api.html)
 - [What's in the Xbox Live Extension SDK API contracts for UWP](http://feedproxy.google.com/~r/MattLacey/~3/J3rKHaWALH0/whats-in-xbox-live-extension-sdk-api.html)
 - [What's in the Windows Team Extension SDK API contracts for UWP](http://feedproxy.google.com/~r/MattLacey/~3/M5NuLoEkbtY/whats-in-windows-team-extension-sdk-api.html)
-- [What's in the Windows Mobile Extension SDK API contracts for UWP](http://feedproxy.google.com/~r/MattLacey/~3/XFq1VQZOXco/whats-in-windows-mobile-extension-sdk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
