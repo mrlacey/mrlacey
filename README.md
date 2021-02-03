@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Here, I made this to search StackOverflow for your error description](http://feedproxy.google.com/~r/MattLacey/~3/TZi1uqqve6E/here-i-made-this-to-search.html)
+- [Here, I made a thing to save time building all projects in a solution](http://feedproxy.google.com/~r/MattLacey/~3/wGWfJMSMliQ/here-i-made-thing-to-save-time-building.html)
 - [Fallback Fonts in XAML](http://feedproxy.google.com/~r/MattLacey/~3/jbpzeQG2c3I/fallback-fonts-in-xaml.html)
 - [Validate everything - why I no longer trust my supermarket](http://feedproxy.google.com/~r/MattLacey/~3/7iQKoPpAZG8/validate-everything-why-i-no-longer.html)
 - [A festive introduction to Visual Studio Extensions](http://feedproxy.google.com/~r/MattLacey/~3/lAgsQ80dbxE/a-festive-introduction-to-visual-studio.html)
-- [Rethinking open-source priorities - what is my time worth to me?](http://feedproxy.google.com/~r/MattLacey/~3/zx54YaqkaoA/rethinking-open-source-priorities-what.html)
-- [6 tips for contributing to Open Source](http://feedproxy.google.com/~r/MattLacey/~3/R-aY-G_y1d8/6-tips-for-contributing-to-open-source.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
