@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You must be insane to be a software developer](http://feedproxy.google.com/~r/MattLacey/~3/QkrKLZhW1Uc/you-must-be-insane-to-be-software.html)
 - [Tried everything? - Methodical debugging](http://feedproxy.google.com/~r/MattLacey/~3/oSMxoCtVacM/tried-everything-methodical-debugging.html)
 - [100,000+ "thank-you"s](http://feedproxy.google.com/~r/MattLacey/~3/DZk47PrqsJE/100000-thank-yous.html)
 - [Here, I made this to search StackOverflow for your error description](http://feedproxy.google.com/~r/MattLacey/~3/TZi1uqqve6E/here-i-made-this-to-search.html)
 - [Here, I made a thing to save time building all projects in a solution](http://feedproxy.google.com/~r/MattLacey/~3/wGWfJMSMliQ/here-i-made-thing-to-save-time-building.html)
-- [Fallback Fonts in XAML](http://feedproxy.google.com/~r/MattLacey/~3/jbpzeQG2c3I/fallback-fonts-in-xaml.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
