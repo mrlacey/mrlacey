@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It's sad and happy to deprecate something that's no longer needed.](http://feedproxy.google.com/~r/MattLacey/~3/pGxFKM1BKDo/its-sad-and-happy-to-deprecate.html)
+- [Never just "should"!](http://feedproxy.google.com/~r/MattLacey/~3/OBr56cLiaw0/never-just-should.html)
 - [You must be insane to be a software developer](http://feedproxy.google.com/~r/MattLacey/~3/QkrKLZhW1Uc/you-must-be-insane-to-be-software.html)
 - [Tried everything? - Methodical debugging](http://feedproxy.google.com/~r/MattLacey/~3/oSMxoCtVacM/tried-everything-methodical-debugging.html)
 - [100,000+ "thank-you"s](http://feedproxy.google.com/~r/MattLacey/~3/DZk47PrqsJE/100000-thank-yous.html)
-- [Here, I made this to search StackOverflow for your error description](http://feedproxy.google.com/~r/MattLacey/~3/TZi1uqqve6E/here-i-made-this-to-search.html)
-- [Here, I made a thing to save time building all projects in a solution](http://feedproxy.google.com/~r/MattLacey/~3/wGWfJMSMliQ/here-i-made-thing-to-save-time-building.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
