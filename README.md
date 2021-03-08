@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-source is like politics - show up to make a difference](http://feedproxy.google.com/~r/MattLacey/~3/n2QH7_m8MK8/open-source-is-like-politics-show-up-to.html)
 - [It's sad and happy to deprecate something that's no longer needed.](http://feedproxy.google.com/~r/MattLacey/~3/pGxFKM1BKDo/its-sad-and-happy-to-deprecate.html)
 - [Never just "should"!](http://feedproxy.google.com/~r/MattLacey/~3/OBr56cLiaw0/never-just-should.html)
 - [You must be insane to be a software developer](http://feedproxy.google.com/~r/MattLacey/~3/QkrKLZhW1Uc/you-must-be-insane-to-be-software.html)
 - [Tried everything? - Methodical debugging](http://feedproxy.google.com/~r/MattLacey/~3/oSMxoCtVacM/tried-everything-methodical-debugging.html)
-- [100,000+ "thank-you"s](http://feedproxy.google.com/~r/MattLacey/~3/DZk47PrqsJE/100000-thank-yous.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
