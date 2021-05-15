@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started in "app" development - what do you need to know from a conference session?](http://feedproxy.google.com/~r/MattLacey/~3/u_-ouTtBdk4/getting-started-in-app-development-what.html)
 - [Here, I made a way to navigate between ANY files in Visual Studio](http://feedproxy.google.com/~r/MattLacey/~3/ZPkBFlmp-FU/here-i-made-way-to-navigate-between-any.html)
 - [When everyone's working together for the collective good](http://feedproxy.google.com/~r/MattLacey/~3/fQ4f5ke6M1M/when-everyones-working-together-for.html)
 - [Open-source is like politics - show up to make a difference](http://feedproxy.google.com/~r/MattLacey/~3/n2QH7_m8MK8/open-source-is-like-politics-show-up-to.html)
 - [It's sad and happy to deprecate something that's no longer needed.](http://feedproxy.google.com/~r/MattLacey/~3/pGxFKM1BKDo/its-sad-and-happy-to-deprecate.html)
-- [Never just "should"!](http://feedproxy.google.com/~r/MattLacey/~3/OBr56cLiaw0/never-just-should.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
