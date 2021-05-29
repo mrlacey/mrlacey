@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Free t-shirts for XAML developers](http://feedproxy.google.com/~r/MattLacey/~3/0siTWn0iAW4/free-t-shirts-for-xaml-developers.html)
 - [Rapid XAML Toolkit v0.12 - Now with extra Xamarin.Forms related goodness](http://feedproxy.google.com/~r/MattLacey/~3/xQyIB_Cpniw/rapid-xaml-toolkit-v012-now-with-extra.html)
 - [Getting started in "app" development - what do you need to know from a conference session?](http://feedproxy.google.com/~r/MattLacey/~3/u_-ouTtBdk4/getting-started-in-app-development-what.html)
 - [Here, I made a way to navigate between ANY files in Visual Studio](http://feedproxy.google.com/~r/MattLacey/~3/ZPkBFlmp-FU/here-i-made-way-to-navigate-between-any.html)
 - [When everyone's working together for the collective good](http://feedproxy.google.com/~r/MattLacey/~3/fQ4f5ke6M1M/when-everyones-working-together-for.html)
-- [Open-source is like politics - show up to make a difference](http://feedproxy.google.com/~r/MattLacey/~3/n2QH7_m8MK8/open-source-is-like-politics-show-up-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
