@@ -2,7 +2,7 @@
 
 - I'm currently juggling lots of different things and need to find time to write a better README!
 
-[GS](https://www.gigseekr.com/takeover/lsc)
+[GS](https://www.gigseekr.com/takeover/lsc21)
 
 <!--
 **mrlacey/mrlacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
