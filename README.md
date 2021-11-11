@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating Cross-platform C# Applications with Uno Platform](http://feedproxy.google.com/~r/MattLacey/~3/aq3B2EVVb7I/creating-cross-platform-c-applications.html)
-- [What should you do with your UWP app?](http://feedproxy.google.com/~r/MattLacey/~3/2LxvMNvwYYc/what-should-you-do-with-your-uwp-app.html)
-- [A cynical take on today&#39;s Windows announcement](http://feedproxy.google.com/~r/MattLacey/~3/5vRpt8yOCes/a-cynical-take-on-todays-windows.html)
-- [I don&#39;t think you should only test manually](http://feedproxy.google.com/~r/MattLacey/~3/a5VEe7mZSgk/i-dont-think-you-should-only-test.html)
-- [When it&#39;s Ok to break the build](http://feedproxy.google.com/~r/MattLacey/~3/AqpZTgPOBDM/when-its-ok-to-break-build.html)
+- [Creating Cross-platform C# Applications with Uno Platform](https://www.mrlacey.com/2021/08/creating-cross-platform-c-applications.html)
+- [What should you do with your UWP app?](https://www.mrlacey.com/2021/07/what-should-you-do-with-your-uwp-app.html)
+- [A cynical take on today&#39;s Windows announcement](https://www.mrlacey.com/2021/06/a-cynical-take-on-todays-windows.html)
+- [I don&#39;t think you should only test manually](https://www.mrlacey.com/2021/06/i-dont-think-you-should-only-test.html)
+- [When it&#39;s Ok to break the build](https://www.mrlacey.com/2021/06/when-its-ok-to-break-build.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
