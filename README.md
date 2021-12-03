@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m updating &lpar;most of&rpar; my Visual Studio extensions to support VS022](https://www.mrlacey.com/2021/12/im-updating-most-of-my-visual-studio.html)
+- [UnoConf &lpar;2021&rpar; - Quick reactions](https://www.mrlacey.com/2021/12/unoconf-2021-quick-reactions.html)
 - [How to respond to a question?](https://www.mrlacey.com/2021/11/how-to-respond-to-question.html)
 - [I learned a shocking secret about many technical books](https://www.mrlacey.com/2021/11/i-learned-shocking-secret-about-many.html)
 - [Creating Cross-platform C# Applications with Uno Platform](https://www.mrlacey.com/2021/08/creating-cross-platform-c-applications.html)
-- [What should you do with your UWP app?](https://www.mrlacey.com/2021/07/what-should-you-do-with-your-uwp-app.html)
-- [A cynical take on today&#39;s Windows announcement](https://www.mrlacey.com/2021/06/a-cynical-take-on-todays-windows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
