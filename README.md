@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- I'm currently juggling lots of different things and need to find time to write a better README!
+- 👨‍💻 I’m currently working on various open source projects. (See below for details)
+- 📚 Author of [Usability Matters](https://www.manning.com/books/usability-matters?a_aid=mrlacey) and [Creating Cross-platform C# Applications with Uno Platform](https://www.packtpub.com/product/creating-cross-platform-c-applications-with-uno-platform/9781801078498)
+- 🏅 Recognized as a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001397?fullName=Matt%20Lacey) in Windows Development
+- 📫 Reach me via [twitter](https://twitter.com/mrlacey), [LinkedIn](https://www.linkedin.com/in/mrlacey), or GitHub.
+- 😄 Pronouns: he/him/his
 
 <!--
 **mrlacey/mrlacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
