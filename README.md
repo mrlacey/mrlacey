@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Questions to ask BEFORE asking a question](https://www.mrlacey.com/2021/12/questions-to-ask-before-asking-question.html)
+- [Questions to ask BEFORE answering a question](https://www.mrlacey.com/2021/12/questions-to-ask-before-answering.html)
 - [Forking Windows Template Studio](https://www.mrlacey.com/2021/12/forking-windows-template-studio.html)
 - [I&#39;m updating &lpar;most of&rpar; my Visual Studio extensions to support VS022](https://www.mrlacey.com/2021/12/im-updating-most-of-my-visual-studio.html)
 - [UnoConf &lpar;2021&rpar; - Quick reactions](https://www.mrlacey.com/2021/12/unoconf-2021-quick-reactions.html)
-- [How to respond to a question?](https://www.mrlacey.com/2021/11/how-to-respond-to-question.html)
-- [I learned a shocking secret about many technical books](https://www.mrlacey.com/2021/11/i-learned-shocking-secret-about-many.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
