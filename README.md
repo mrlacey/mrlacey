@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve found a bug in your open source library but I&#39;m not going to raise an issue to log it. Sorry.](https://www.mrlacey.com/2021/12/ive-found-bug-in-your-open-source.html)
 - [Are technical computer books supposed to make you laugh out loud?](https://www.mrlacey.com/2021/12/are-technical-computer-books-supposed.html)
 - [Questions to ask BEFORE asking a question](https://www.mrlacey.com/2021/12/questions-to-ask-before-asking-question.html)
 - [Questions to ask BEFORE answering a question](https://www.mrlacey.com/2021/12/questions-to-ask-before-answering.html)
 - [Forking Windows Template Studio](https://www.mrlacey.com/2021/12/forking-windows-template-studio.html)
-- [I&#39;m updating &lpar;most of&rpar; my Visual Studio extensions to support VS022](https://www.mrlacey.com/2021/12/im-updating-most-of-my-visual-studio.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
