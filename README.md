@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2 reasons I&#39;m learning about CSS](https://www.mrlacey.com/2022/01/2-reasons-im-learning-about-css.html)
+- [Don&#39;t give up on XAML yet.](https://www.mrlacey.com/2022/02/dont-give-up-on-xaml-yet-its-still.html)
+- [3 reasons I&#39;m learning about CSS](https://www.mrlacey.com/2022/01/2-reasons-im-learning-about-css.html)
 - [Windows Template Studio - reborn!](https://www.mrlacey.com/2022/01/windows-template-studio-reborn.html)
 - [Reasons to ask a question](https://www.mrlacey.com/2022/01/reasons-to-ask-question.html)
 - [Template Studio for WPF](https://www.mrlacey.com/2022/01/template-studio-for-wpf.html)
-- [I&#39;ve found a bug in your open source library but I&#39;m not going to raise an issue to log it. Sorry.](https://www.mrlacey.com/2021/12/ive-found-bug-in-your-open-source.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
