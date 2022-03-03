@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you still using Visual Studio 2017?](https://www.mrlacey.com/2022/03/are-you-still-using-visual-studio-2017.html)
 - [Don&#39;t show this message again - avoid vague options](https://www.mrlacey.com/2022/02/dont-show-this-message-again-avoid.html)
 - [Why I wrote &lpar;and you should buy&rpar; a book about Uno Platform when there are free resources available](https://www.mrlacey.com/2022/02/why-i-wrote-and-you-should-buy-book.html)
 - [Imposter syndrome - a coin with 2 sides?](https://www.mrlacey.com/2022/02/imposter-syndrome-coin-with-2-sides.html)
 - [Some quick thoughts about writing a first book](https://www.mrlacey.com/2022/02/some-quick-thoughts-about-writing-first.html)
-- [XAML is not a Turing-Complete language - but treating it like one can be helpful](https://www.mrlacey.com/2022/02/xaml-is-not-turing-complete-language.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
