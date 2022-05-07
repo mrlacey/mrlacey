@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why some things never get better](https://www.mrlacey.com/2022/05/why-some-things-never-get-better.html)
 - [There are two types of developers](https://www.mrlacey.com/2022/04/there-are-two-types-of-developers.html)
 - [How you should be using &lpar;and naming&rpar; resources in XAML](https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html)
 - [Some notes for people giving technical talks](https://www.mrlacey.com/2022/03/some-notes-for-people-giving-technical.html)
 - [Matt&#39;s Template Studio for UWP, WPF, &amp; WinUI &lpar;C#&rpar;](https://www.mrlacey.com/2022/03/matts-template-studio-for-uwp-wpf-winui.html)
-- [What&#39;s wrong with this WinUI code?](https://www.mrlacey.com/2022/03/whats-wrong-with-this-winui-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
