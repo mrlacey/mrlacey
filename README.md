@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating binary logs from Visual Studio](https://www.mrlacey.com/2022/05/creating-binary-logs-from-visual-studio.html)
 - [Testing against old versions of Visual Studio](https://www.mrlacey.com/2022/05/testing-against-old-versions-of-visual.html)
 - [Why a bug fix should &quot;always&quot; include new tests](https://www.mrlacey.com/2022/05/why-bug-fix-should-always-include-new.html)
 - [Why some things never get better](https://www.mrlacey.com/2022/05/why-some-things-never-get-better.html)
 - [There are two types of developers](https://www.mrlacey.com/2022/04/there-are-two-types-of-developers.html)
-- [How you should be using &lpar;and naming&rpar; resources in XAML](https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
