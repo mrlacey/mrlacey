@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernizing Your Windows Applications with the Windows App SDK and WinUI - Review](https://www.mrlacey.com/2022/08/modernizing-your-windows-applications.html)
 - [Laughter and creativity - Peter Pendleton Eckersley](https://www.mrlacey.com/2022/07/laughter-and-creativity-peter-pendleton.html)
 - [Plant trees while you search for error descriptions](https://www.mrlacey.com/2022/06/plant-trees-while-you-search-for-error.html)
 - [Creating binary logs from Visual Studio](https://www.mrlacey.com/2022/05/creating-binary-logs-from-visual-studio.html)
 - [Testing against old versions of Visual Studio](https://www.mrlacey.com/2022/05/testing-against-old-versions-of-visual.html)
-- [Why a bug fix should &quot;always&quot; include new tests](https://www.mrlacey.com/2022/05/why-bug-fix-should-always-include-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
