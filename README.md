@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MAUI App Accelerator v1.1 - Now with C# Markup support](https://www.mrlacey.com/2022/11/maui-app-accelerator-v11-now-with-c.html)
 - [Give a great first technical talk - Table of Contents](https://www.mrlacey.com/2022/11/give-great-first-technical-talk-table.html)
 - [What I learned from 14 years of organizing user groups and meetups](https://www.mrlacey.com/2022/11/what-i-learned-from-14-years-of.html)
 - [The sound of a goat bleating....](https://www.mrlacey.com/2022/11/the-sound-of-goat-bleating.html)
 - [Template Studio for .NET MAUI](https://www.mrlacey.com/2022/11/template-studio-for-net-maui.html)
-- [Modernizing Your Windows Applications with the Windows App SDK and WinUI - Review](https://www.mrlacey.com/2022/08/modernizing-your-windows-applications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
