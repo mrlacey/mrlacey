@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tech Advent Calendars - 2022](https://www.mrlacey.com/2022/12/tech-advent-calendars-2022.html)
 - [.NET MAUI Advent Calendar 2022 - Dec 1st : MAUI App Accelerator](https://www.mrlacey.com/2022/11/net-maui-advent-calendar-2022-dec-1st.html)
 - [MAUI App Accelerator v1.1 - Now with C# Markup support](https://www.mrlacey.com/2022/11/maui-app-accelerator-v11-now-with-c.html)
 - [Give a great first technical talk - Table of Contents](https://www.mrlacey.com/2022/11/give-great-first-technical-talk-table.html)
 - [What I learned from 14 years of organizing user groups and meetups](https://www.mrlacey.com/2022/11/what-i-learned-from-14-years-of.html)
-- [The sound of a goat bleating....](https://www.mrlacey.com/2022/11/the-sound-of-goat-bleating.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
