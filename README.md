@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understability of code should be the default priority](https://www.mrlacey.com/2022/12/understability-of-code-should-be.html)
 - [The problem with XAML](https://www.mrlacey.com/2022/12/the-problem-with-xaml.html)
 - [I want to be wrong about XAML!](https://www.mrlacey.com/2022/12/i-want-to-be-wrong-about-xaml.html)
 - [Will AI replace me? - I doubt it](https://www.mrlacey.com/2022/12/will-ai-replace-me-i-doubt-it.html)
 - [Give a Great First Technical Talk: Share your experiences at user groups and meetups - Available now!](https://www.mrlacey.com/2022/12/give-great-first-technical-talk-share.html)
-- [Tech Advent Calendars - 2022](https://www.mrlacey.com/2022/12/tech-advent-calendars-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
