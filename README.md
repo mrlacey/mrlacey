@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways &#39;MAUI App Accelerator&#39; can save you time &lpar;and money&rpar;](https://www.mrlacey.com/2023/01/4-ways-maui-app-accelerator-can-save.html)
 - [Understability of code should be the default priority](https://www.mrlacey.com/2022/12/understability-of-code-should-be.html)
 - [The problem with XAML](https://www.mrlacey.com/2022/12/the-problem-with-xaml.html)
 - [I want to be wrong about XAML!](https://www.mrlacey.com/2022/12/i-want-to-be-wrong-about-xaml.html)
 - [Will AI replace me? - I doubt it](https://www.mrlacey.com/2022/12/will-ai-replace-me-i-doubt-it.html)
-- [Give a Great First Technical Talk: Share your experiences at user groups and meetups - Available now!](https://www.mrlacey.com/2022/12/give-great-first-technical-talk-share.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
