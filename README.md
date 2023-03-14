@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Please help improve the extensibility experience in Visual Studio](https://www.mrlacey.com/2023/03/please-help-improve-extensibility.html)
 - [Do you know what good code looks like?](https://www.mrlacey.com/2023/03/do-you-know-what-good-code-looks-like.html)
 - [Three thousand .NET MAUI Developers can&#39;t be wrong!](https://www.mrlacey.com/2023/03/three-thousand-net-maui-developers-cant.html)
 - [MAUI App Accelerator version 1.2 is now available - What&#39;s new?](https://www.mrlacey.com/2023/01/maui-app-accelerator-version-12-is-now.html)
 - [Did you know that GitHub sponsors can be Private?](https://www.mrlacey.com/2023/01/did-you-know-that-github-sponsors-can.html)
-- [All my Visual Studio extensions now work on ARM64 - thanks to GitHub sponsors](https://www.mrlacey.com/2023/01/all-my-visual-studio-extensions-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
