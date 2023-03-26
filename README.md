@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is manual testing going to become more important when code is written by AI?](https://www.mrlacey.com/2023/03/is-manual-testing-going-to-become-more.html)
 - [5 reasons WE SHOULD think about how XAML could be better](https://www.mrlacey.com/2023/03/5-reasons-we-should-think-about-how.html)
 - [5 reasons NOT to think about how XAML could be better](https://www.mrlacey.com/2023/03/5-reasons-not-to-think-about-how-xaml.html)
 - [Microsoft&#39;s Ability Summit has inspired me, again!](https://www.mrlacey.com/2023/03/microsofts-ability-summit-has-inspired.html)
 - [&quot;It&#39;s as pretty as I&#39;m able to make it&quot; - An excuse that shows an opportunity](https://www.mrlacey.com/2023/03/its-as-pretty-as-im-able-to-make-it.html)
-- [Please help improve the extensibility experience in Visual Studio](https://www.mrlacey.com/2023/03/please-help-improve-extensibility.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
