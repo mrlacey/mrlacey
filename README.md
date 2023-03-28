@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dear developer, how will you know when you&#39;re finished?](https://www.mrlacey.com/2023/03/dear-developer-how-will-you-know-when.html)
 - [I like causing tests to fail](https://www.mrlacey.com/2023/03/i-like-causing-tests-to-fail.html)
 - [Aspects of &quot;good code&quot; &lpar;not just XAML&rpar;](https://www.mrlacey.com/2023/03/aspects-of-good-code-not-just-xaml.html)
 - [Is manual testing going to become more important when code is written by AI?](https://www.mrlacey.com/2023/03/is-manual-testing-going-to-become-more.html)
 - [5 reasons WE SHOULD think about how XAML could be better](https://www.mrlacey.com/2023/03/5-reasons-we-should-think-about-how.html)
-- [5 reasons NOT to think about how XAML could be better](https://www.mrlacey.com/2023/03/5-reasons-not-to-think-about-how-xaml.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
