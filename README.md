@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What if your XAML code was much simpler?](https://www.mrlacey.com/2023/04/what-if-your-xaml-code-was-much-simpler.html)
+- [Thank you ElektroStudio for helping spread the VB love](https://www.mrlacey.com/2023/04/thank-you-elektrostudio-for-helping.html)
 - [global &lpar;and implicit&rpar; using directives - but for XAML?](https://www.mrlacey.com/2023/04/global-and-implicit-using-directives.html)
 - [2 types of testing - but only 1 that AI can help with](https://www.mrlacey.com/2023/04/2-types-of-testing-but-only-1-that-ai.html)
 - [You say &quot;it&#39;s too complicated to test&quot; but...](https://www.mrlacey.com/2023/03/you-say-its-too-complicated-to-test-but.html)
-- [Dear developer, how will you know when you&#39;re finished?](https://www.mrlacey.com/2023/03/dear-developer-how-will-you-know-when.html)
-- [I like causing tests to fail](https://www.mrlacey.com/2023/03/i-like-causing-tests-to-fail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
