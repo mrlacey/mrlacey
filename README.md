@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you really need MVVM?](https://www.mrlacey.com/2023/05/do-you-really-need-mvvm.html)
 - [What if your XAML code was much simpler?](https://www.mrlacey.com/2023/04/what-if-your-xaml-code-was-much-simpler.html)
 - [Thank you ElektroStudio for helping spread the VB love](https://www.mrlacey.com/2023/04/thank-you-elektrostudio-for-helping.html)
 - [global &lpar;and implicit&rpar; using directives - but for XAML?](https://www.mrlacey.com/2023/04/global-and-implicit-using-directives.html)
 - [2 types of testing - but only 1 that AI can help with](https://www.mrlacey.com/2023/04/2-types-of-testing-but-only-1-that-ai.html)
-- [You say &quot;it&#39;s too complicated to test&quot; but...](https://www.mrlacey.com/2023/03/you-say-its-too-complicated-to-test-but.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
