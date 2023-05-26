@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MAUI App Accelerator version 1.3 is now available!](https://www.mrlacey.com/2023/05/maui-app-accelerator-version-13-is-now.html)
 - [Three years with GitHub Sponsors](https://www.mrlacey.com/2023/05/three-years-with-github-sponsors.html)
 - [Do you really need MVVM?](https://www.mrlacey.com/2023/05/do-you-really-need-mvvm.html)
 - [What if your XAML code was much simpler?](https://www.mrlacey.com/2023/04/what-if-your-xaml-code-was-much-simpler.html)
 - [Thank you ElektroStudio for helping spread the VB love](https://www.mrlacey.com/2023/04/thank-you-elektrostudio-for-helping.html)
-- [global &lpar;and implicit&rpar; using directives - but for XAML?](https://www.mrlacey.com/2023/04/global-and-implicit-using-directives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
