@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 times I got &quot;sherlocked&quot; by Visual Studio](https://www.mrlacey.com/2023/08/4-times-i-got-sherlocked-by-visual.html)
 - [Why does writing XAML have to be so slow?](https://www.mrlacey.com/2023/07/why-does-writing-xaml-have-to-be-so-slow.html)
 - [UI summary representation without a treeview?](https://www.mrlacey.com/2023/07/ui-summary-representation-without.html)
 - [Code therapy &lpar;AKA: Lessons from a &quot;mental health&quot; Hack Day&rpar;](https://www.mrlacey.com/2023/06/code-therapy-aka-lessons-from-mental.html)
 - [MAUI App Accelerator version 1.3 is now available!](https://www.mrlacey.com/2023/05/maui-app-accelerator-version-13-is-now.html)
-- [Three years with GitHub Sponsors](https://www.mrlacey.com/2023/05/three-years-with-github-sponsors.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
