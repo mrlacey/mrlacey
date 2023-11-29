@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One test is never enough!](https://www.mrlacey.com/2023/11/one-test-is-never-enough.html)
 - [This looks like a NuGet bug - but isn&#39;t](https://www.mrlacey.com/2023/11/this-looks-like-nuget-bug-but-isnt.html)
 - [Review: Learning WinUI3 &lpar;2nd edition&rpar;](https://www.mrlacey.com/2023/11/review-learning-winui3-2nd-edition.html)
 - [Rethinking &quot;code-adjacent&quot; talks](https://www.mrlacey.com/2023/10/rethinking-code-adjacent-talks.html)
 - [Some Visual Studio Extension development related links](https://www.mrlacey.com/2023/08/some-visual-studio-extension.html)
-- [4 times I got &quot;sherlocked&quot; by Visual Studio](https://www.mrlacey.com/2023/08/4-times-i-got-sherlocked-by-visual.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
