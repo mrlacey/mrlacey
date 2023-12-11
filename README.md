@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m a [statistically] bad but also valuable developer](https://www.mrlacey.com/2023/12/why-im-statistically-bad-but-also.html)
+- [&quot;Why an MVP shouldn&#39;t use their extensions to hijack a developers GeneralOutputPane in Visual Studio to solicit sponsorship and to use it as their own personal advertising space via a class called SponsorRequestHelper.cs.&quot;](https://www.mrlacey.com/2023/12/why-mvp-shouldnt-use-their-extensions.html)
+- [MAUI App Accelerator v1.4](https://www.mrlacey.com/2023/12/maui-app-accelerator.html)
+- [Is MVVM still relevant or useful?](https://www.mrlacey.com/2023/12/is-mvvm-still-relevant-or-useful.html)
 - [One test is never enough!](https://www.mrlacey.com/2023/11/one-test-is-never-enough.html)
-- [This looks like a NuGet bug - but isn&#39;t](https://www.mrlacey.com/2023/11/this-looks-like-nuget-bug-but-isnt.html)
-- [Review: Learning WinUI3 &lpar;2nd edition&rpar;](https://www.mrlacey.com/2023/11/review-learning-winui3-2nd-edition.html)
-- [Rethinking &quot;code-adjacent&quot; talks](https://www.mrlacey.com/2023/10/rethinking-code-adjacent-talks.html)
-- [Some Visual Studio Extension development related links](https://www.mrlacey.com/2023/08/some-visual-studio-extension.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
