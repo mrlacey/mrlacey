@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Never delete tests](https://www.mrlacey.com/2023/12/never-delete-tests.html)
 - [Why I&#39;m a [statistically] bad but also valuable developer](https://www.mrlacey.com/2023/12/why-im-statistically-bad-but-also.html)
 - [&quot;Why an MVP shouldn&#39;t use their extensions to hijack a developers GeneralOutputPane in Visual Studio to solicit sponsorship and to use it as their own personal advertising space via a class called SponsorRequestHelper.cs.&quot;](https://www.mrlacey.com/2023/12/why-mvp-shouldnt-use-their-extensions.html)
 - [MAUI App Accelerator v1.4](https://www.mrlacey.com/2023/12/maui-app-accelerator.html)
 - [Is MVVM still relevant or useful?](https://www.mrlacey.com/2023/12/is-mvvm-still-relevant-or-useful.html)
-- [One test is never enough!](https://www.mrlacey.com/2023/11/one-test-is-never-enough.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
