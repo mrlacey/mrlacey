@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If XAML has problems, why not just abandon it?](https://www.mrlacey.com/2024/02/if-xaml-has-problems-why-not-just.html)
+- [&quot;Quickies&quot;?](https://www.mrlacey.com/2024/02/quickies.html)
 - [Why AI &lpar;LLMs&rpar; is not the solution to your problems with XAML](https://www.mrlacey.com/2024/02/why-ai-llms-is-not-solution-to-your.html)
+- [Working with time is hard - why the film starts in &quot;1 hour and 60 minutes&quot;](https://www.mrlacey.com/2024/02/working-with-time-is-hard-why-film.html)
 - [That&#39;s not what code reviews are for!](https://www.mrlacey.com/2024/02/thats-not-what-code-reviews-are-for.html)
-- [I don&#39;t want to be interesting](https://www.mrlacey.com/2024/01/i-dont-want-to-be-interesting.html)
-- [Lessons from mobile notifications applied to IDE Extensions](https://www.mrlacey.com/2024/01/lessons-from-mobile-notifications.html)
-- [What could I write about here that could help you?](https://www.mrlacey.com/2024/01/what-could-i-write-about-here-that.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
