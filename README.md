@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The required amount of documentation and testing will vary](https://www.mrlacey.com/2024/03/the-required-amount-of-documentation.html)
 - [Reviewing documentation is like reviewing code](https://www.mrlacey.com/2024/02/reviewing-documentation-is-like.html)
 - [&quot;LGTM&quot; isn&#39;t automatically a bad code review comment](https://www.mrlacey.com/2024/02/lgtm-isnt-automatically-bad-code-review.html)
 - [Before you &quot;add AI&quot; to your software...](https://www.mrlacey.com/2024/02/before-you-add-ai-to-your-software.html)
 - [Do you run tests before checking in?](https://www.mrlacey.com/2024/02/do-you-run-tests-before-checking-in.html)
-- [Why you shouldn&#39;t use LangVersion = latest](https://www.mrlacey.com/2024/02/why-you-shouldnt-use-langversion-latest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
