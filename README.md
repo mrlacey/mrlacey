@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Did this bug report get me banned from Visual Studio?](https://www.mrlacey.com/2024/03/did-this-bug-report-get-me-banned-from.html)
+- [Themes of DDD North 2024](https://www.mrlacey.com/2024/03/themes-of-ddd-north-2024.html)
 - [Lack of nuance](https://www.mrlacey.com/2024/03/lack-of-nuance.html)
 - [Always use a regex rather than string manipulation](https://www.mrlacey.com/2024/03/always-use-regex-rather-than-string.html)
 - [The required amount of documentation and testing will vary](https://www.mrlacey.com/2024/03/the-required-amount-of-documentation.html)
-- [Reviewing documentation is like reviewing code](https://www.mrlacey.com/2024/02/reviewing-documentation-is-like.html)
-- [&quot;LGTM&quot; isn&#39;t automatically a bad code review comment](https://www.mrlacey.com/2024/02/lgtm-isnt-automatically-bad-code-review.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
