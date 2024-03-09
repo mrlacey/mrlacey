@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Detecting relevant content of interest](https://www.mrlacey.com/2024/03/detecting-relevant-content-of-interest.html)
 - [Software development = basketball](https://www.mrlacey.com/2024/03/software-development-basketball.html)
 - [Sticktoitiveness and software development](https://www.mrlacey.com/2024/03/sticktoitiveness-and-software.html)
 - [Did this bug report get me banned from Visual Studio?](https://www.mrlacey.com/2024/03/did-this-bug-report-get-me-banned-from.html)
 - [Themes of DDD North 2024](https://www.mrlacey.com/2024/03/themes-of-ddd-north-2024.html)
-- [Lack of nuance](https://www.mrlacey.com/2024/03/lack-of-nuance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
