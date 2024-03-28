@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The most important question on a PR checklist is...](https://www.mrlacey.com/2024/03/the-most-important-question-on-pr.html)
 - [Doing things different in CI builds](https://www.mrlacey.com/2024/03/doing-things-different-in-ci-builds.html)
 - [Prompt engineering and search terms?](https://www.mrlacey.com/2024/03/prompt-engineering-and-search-terms.html)
 - [Setting up a new machine with WinGet DSC - my experience](https://www.mrlacey.com/2024/03/setting-up-new-machine-with-winget-dsc.html)
 - [Reverse engineering a workshop](https://www.mrlacey.com/2024/03/reverse-engineering-workshop.html)
-- [Who said it doesn&#39;t matter](https://www.mrlacey.com/2024/03/who-said-it-doesnt-matter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
