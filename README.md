@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How can you make manual testing easier?](https://www.mrlacey.com/2024/03/how-can-you-make-manual-testing-easier.html)
+- [Does AI mean software development will appeal to different people?](https://www.mrlacey.com/2024/03/does-ai-mean-software-development-will.html)
 - [The most important question on a PR checklist is...](https://www.mrlacey.com/2024/03/the-most-important-question-on-pr.html)
 - [Doing things different in CI builds](https://www.mrlacey.com/2024/03/doing-things-different-in-ci-builds.html)
 - [Prompt engineering and search terms?](https://www.mrlacey.com/2024/03/prompt-engineering-and-search-terms.html)
-- [Setting up a new machine with WinGet DSC - my experience](https://www.mrlacey.com/2024/03/setting-up-new-machine-with-winget-dsc.html)
-- [Reverse engineering a workshop](https://www.mrlacey.com/2024/03/reverse-engineering-workshop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
