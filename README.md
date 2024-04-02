@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Visual Studio UI Refresh has made me more productive](https://www.mrlacey.com/2024/04/the-visual-studio-ui-refresh-has-made.html)
 - [when the developers no longer seem intelligent](https://www.mrlacey.com/2024/04/when-developers-no-longer-seem.html)
 - [How can you make manual testing easier?](https://www.mrlacey.com/2024/03/how-can-you-make-manual-testing-easier.html)
 - [Does AI mean software development will appeal to different people?](https://www.mrlacey.com/2024/03/does-ai-mean-software-development-will.html)
 - [The most important question on a PR checklist is...](https://www.mrlacey.com/2024/03/the-most-important-question-on-pr.html)
-- [Doing things different in CI builds](https://www.mrlacey.com/2024/03/doing-things-different-in-ci-builds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
