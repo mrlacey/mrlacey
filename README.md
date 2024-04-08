@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comments in code written by AI](https://www.mrlacey.com/2024/04/comments-in-code-written-by-ai.html)
+- [Reflecting on 1000+ blog posts](https://www.mrlacey.com/2024/04/reflecting-on-1000-blog-posts.html)
 - [Does code quality matter for AI generated code?](https://www.mrlacey.com/2024/04/does-code-quality-matter-for-ai.html)
 - [Where does performance matter?](https://www.mrlacey.com/2024/04/where-does-performance-matter.html)
 - [Thought vs experiment](https://www.mrlacey.com/2024/04/thought-vs-experiment.html)
-- [The Visual Studio UI Refresh has made me more productive](https://www.mrlacey.com/2024/04/the-visual-studio-ui-refresh-has-made.html)
-- [when the developers no longer seem intelligent](https://www.mrlacey.com/2024/04/when-developers-no-longer-seem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
