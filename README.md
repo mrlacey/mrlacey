@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatting test code](https://www.mrlacey.com/2024/04/formatting-test-code.html)
 - [Varying &quot;tech talks&quot; based on time of day](https://www.mrlacey.com/2024/04/varying-tech-talks-based-on-time-of-day.html)
 - [Comments in code written by AI](https://www.mrlacey.com/2024/04/comments-in-code-written-by-ai.html)
 - [Reflecting on 1000+ blog posts](https://www.mrlacey.com/2024/04/reflecting-on-1000-blog-posts.html)
 - [Does code quality matter for AI generated code?](https://www.mrlacey.com/2024/04/does-code-quality-matter-for-ai.html)
-- [Where does performance matter?](https://www.mrlacey.com/2024/04/where-does-performance-matter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
