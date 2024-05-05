@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Retrying failing tests?](https://www.mrlacey.com/2024/05/retrying-failing-tests.html)
+- [A lesson in algorithms from Guess Who](https://www.mrlacey.com/2024/05/a-lesson-in-algorithms-from-guess-who.html)
+- [Emotional intelligence](https://www.mrlacey.com/2024/04/emotional-intelligence.html)
+- [What&#39;s the value of reviewing a Draft PR?](https://www.mrlacey.com/2024/04/whats-value-of-reviewing-draft-pr.html)
 - [trivial feedback and micro-optimizations in code reviews](https://www.mrlacey.com/2024/04/trivial-feedback-and-micro.html)
-- [Before commenting](https://www.mrlacey.com/2024/04/before-commenting.html)
-- [MAUI App Accelerator - milestone of note](https://www.mrlacey.com/2024/04/maui-app-accelerator-milestone-of-note.html)
-- [&quot;I&#39;m not smart enough to use this&quot;](https://www.mrlacey.com/2024/04/im-not-smart-enough-to-use-this.html)
-- [Don&#39;t fix that bug...yet!](https://www.mrlacey.com/2024/04/dont-fix-that-bugyet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
