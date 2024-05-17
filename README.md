@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Specific or vague answers to specific and vague questions](https://www.mrlacey.com/2024/05/specific-or-vague-answers-to-specific.html)
 - [Is it really a &quot;workaround&quot;?](https://www.mrlacey.com/2024/05/is-it-really-workaround.html)
 - [Retrying failing tests?](https://www.mrlacey.com/2024/05/retrying-failing-tests.html)
 - [A lesson in algorithms from Guess Who](https://www.mrlacey.com/2024/05/a-lesson-in-algorithms-from-guess-who.html)
 - [Emotional intelligence](https://www.mrlacey.com/2024/04/emotional-intelligence.html)
-- [What&#39;s the value of reviewing a Draft PR?](https://www.mrlacey.com/2024/04/whats-value-of-reviewing-draft-pr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
