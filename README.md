@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s been a while](https://www.mrlacey.com/2024/10/its-been-while.html)
+- [People like us support open-source like this](https://www.mrlacey.com/2024/10/people-like-us-support-open-source-like.html)
 - [My unique value](https://www.mrlacey.com/2024/06/my-unique-value.html)
 - [Specific or vague answers to specific and vague questions](https://www.mrlacey.com/2024/05/specific-or-vague-answers-to-specific.html)
 - [Is it really a &quot;workaround&quot;?](https://www.mrlacey.com/2024/05/is-it-really-workaround.html)
-- [Retrying failing tests?](https://www.mrlacey.com/2024/05/retrying-failing-tests.html)
-- [A lesson in algorithms from Guess Who](https://www.mrlacey.com/2024/05/a-lesson-in-algorithms-from-guess-who.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
