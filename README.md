@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code signing a VSIX Package with a certificate from DigiC**t](https://www.mrlacey.com/2024/10/code-signing-vsix-package-with.html)
 - [It&#39;s been a while](https://www.mrlacey.com/2024/10/its-been-while.html)
 - [Developers like us pledge to support open-source](https://www.mrlacey.com/2024/10/people-like-us-support-open-source-like.html)
 - [My unique value](https://www.mrlacey.com/2024/06/my-unique-value.html)
 - [Specific or vague answers to specific and vague questions](https://www.mrlacey.com/2024/05/specific-or-vague-answers-to-specific.html)
-- [Is it really a &quot;workaround&quot;?](https://www.mrlacey.com/2024/05/is-it-really-workaround.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
