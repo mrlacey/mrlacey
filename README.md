@@ -3,7 +3,7 @@
 - 👨‍💻 I’m currently working on various open-source projects. (See below for details)
 - 📚 Author of [Usability Matters](https://www.manning.com/books/usability-matters?a_aid=mrlacey), [Creating Cross-platform C# Applications with Uno Platform](https://www.packtpub.com/product/creating-cross-platform-c-applications-with-uno-platform/9781801078498), and [Give a Great First Technical Talk](https://amzn.to/3XQ82gY)
 - 🏅 Recognized as a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001397?fullName=Matt%20Lacey) in Windows Development
-- 📫 Reach me via [twitter](https://twitter.com/mrlacey), <a rel="me" href="https://fosstodon.org/@mrlacey">Mastodon</a>, [LinkedIn](https://www.linkedin.com/in/mrlacey), or GitHub.
+- 📫 Reach me via [twitter](https://twitter.com/mrlacey), <a rel="me" href="https://fosstodon.org/@mrlacey">Mastodon</a>, [BlueSky](https://bsky.app/profile/mrlacey.bsky.social), [Threads](https://www.threads.net/@mattrlacey), [Instagram](https://www.instagram.com/mattrlacey), [LinkedIn](https://www.linkedin.com/in/mrlacey), or GitHub.
 - 😄 Pronouns: he/him/his
 
 <!--
