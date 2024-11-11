@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cool Vs better](https://www.mrlacey.com/2024/11/cool-vs-better.html)
 - [Nick is awesome. Be more like Nick!](https://www.mrlacey.com/2024/11/nick-is-awesome-be-more-like-nick.html)
 - [Superstition, placebos, belief, and &quot;playing with code&quot;](https://www.mrlacey.com/2024/11/superstition-placebos-belief-and.html)
 - [Insanity, LLMs, determination and the future of software development](https://www.mrlacey.com/2024/11/insanity-llms-determination-and-future.html)
 - [not writing about the cutting edge](https://www.mrlacey.com/2024/11/not-writing-about-cutting-edge.html)
-- [where did the SOCIAL in social media go?](https://www.mrlacey.com/2024/11/where-did-social-in-social-media-go.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
