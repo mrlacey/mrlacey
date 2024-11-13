@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve used future versions of Visual Studio for years](https://www.mrlacey.com/2024/11/ive-used-future-versions-of-visual.html)
+- [Naming is important, but consistency possibly moreso](https://www.mrlacey.com/2024/11/naming-is-important-but-consistency.html)
 - [cool Vs better](https://www.mrlacey.com/2024/11/cool-vs-better.html)
 - [Nick is awesome. Be more like Nick!](https://www.mrlacey.com/2024/11/nick-is-awesome-be-more-like-nick.html)
 - [Superstition, placebos, belief, and &quot;playing with code&quot;](https://www.mrlacey.com/2024/11/superstition-placebos-belief-and.html)
-- [Insanity, LLMs, determination and the future of software development](https://www.mrlacey.com/2024/11/insanity-llms-determination-and-future.html)
-- [not writing about the cutting edge](https://www.mrlacey.com/2024/11/not-writing-about-cutting-edge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
