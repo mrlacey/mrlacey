@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - [I&#39;ve used future versions of Visual Studio for years](https://www.mrlacey.com/2024/11/ive-used-future-versions-of-visual.html)
 - [Naming is important, but consistency possibly moreso](https://www.mrlacey.com/2024/11/naming-is-important-but-consistency.html)
 - [cool Vs better](https://www.mrlacey.com/2024/11/cool-vs-better.html)
+- [Are your programming language criticisms misdirected?](https://www.mrlacey.com/2024/11/are-your-programming-language.html)
 - [Nick is awesome. Be more like Nick!](https://www.mrlacey.com/2024/11/nick-is-awesome-be-more-like-nick.html)
-- [Superstition, placebos, belief, and &quot;playing with code&quot;](https://www.mrlacey.com/2024/11/superstition-placebos-belief-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
