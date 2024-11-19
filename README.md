@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s how I wasted $249 on code signing, so you don&#39;t have to!](https://www.mrlacey.com/2024/11/heres-how-i-wasted-249-on-code-signing.html)
 - [I&#39;ve used future versions of Visual Studio for years](https://www.mrlacey.com/2024/11/ive-used-future-versions-of-visual.html)
 - [Naming is important, but consistency possibly moreso](https://www.mrlacey.com/2024/11/naming-is-important-but-consistency.html)
 - [cool Vs better](https://www.mrlacey.com/2024/11/cool-vs-better.html)
 - [Are your programming language criticisms misdirected?](https://www.mrlacey.com/2024/11/are-your-programming-language.html)
-- [Nick is awesome. Be more like Nick!](https://www.mrlacey.com/2024/11/nick-is-awesome-be-more-like-nick.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
