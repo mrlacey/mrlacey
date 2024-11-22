@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open a web page when a project can&#39;t be built](https://www.mrlacey.com/2024/11/open-web-page-when-project-cant-be-built.html)
+- [The lack of a visual designer is actually offensive](https://www.mrlacey.com/2024/11/the-lack-of-visual-designer-is-actually.html)
+- [Logging in Testing](https://www.mrlacey.com/2024/11/logging-in-testing.html)
+- [How do you name &quot;theme&quot; level resources?](https://www.mrlacey.com/2024/11/how-do-you-name-theme-level-resources.html)
 - [Here&#39;s how I wasted $249 on code signing, so you don&#39;t have to!](https://www.mrlacey.com/2024/11/heres-how-i-wasted-249-on-code-signing.html)
-- [I&#39;ve used future versions of Visual Studio for years](https://www.mrlacey.com/2024/11/ive-used-future-versions-of-visual.html)
-- [Naming is important, but consistency possibly moreso](https://www.mrlacey.com/2024/11/naming-is-important-but-consistency.html)
-- [cool Vs better](https://www.mrlacey.com/2024/11/cool-vs-better.html)
-- [Are your programming language criticisms misdirected?](https://www.mrlacey.com/2024/11/are-your-programming-language.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
