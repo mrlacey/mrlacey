@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Even more testing nonsense with generated tests](https://www.mrlacey.com/2024/11/even-more-testing-nonsense-with.html)
+- [The future of software development is testing](https://www.mrlacey.com/2024/11/the-future-of-software-development-is.html)
 - [Open a web page when a project can&#39;t be built](https://www.mrlacey.com/2024/11/open-web-page-when-project-cant-be-built.html)
 - [The lack of a visual designer is actually offensive](https://www.mrlacey.com/2024/11/the-lack-of-visual-designer-is-actually.html)
 - [Logging in Testing](https://www.mrlacey.com/2024/11/logging-in-testing.html)
-- [How do you name &quot;theme&quot; level resources?](https://www.mrlacey.com/2024/11/how-do-you-name-theme-level-resources.html)
-- [Here&#39;s how I wasted $249 on code signing, so you don&#39;t have to!](https://www.mrlacey.com/2024/11/heres-how-i-wasted-249-on-code-signing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
