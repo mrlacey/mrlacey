@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Software and &quot;the Church of England&#39;s problem&quot;](https://www.mrlacey.com/2024/11/open-source-software-and-church-of.html)
 - [Even more testing nonsense with generated tests](https://www.mrlacey.com/2024/11/even-more-testing-nonsense-with.html)
 - [The future of software development is testing](https://www.mrlacey.com/2024/11/the-future-of-software-development-is.html)
 - [Open a web page when a project can&#39;t be built](https://www.mrlacey.com/2024/11/open-web-page-when-project-cant-be-built.html)
 - [The lack of a visual designer is actually offensive](https://www.mrlacey.com/2024/11/the-lack-of-visual-designer-is-actually.html)
-- [Logging in Testing](https://www.mrlacey.com/2024/11/logging-in-testing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
