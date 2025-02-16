@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;We don&#39;t write design docs, we write code&quot;](https://www.mrlacey.com/2025/02/we-dont-write-design-docs-we-write-code.html)
+- [AI can&#39;t tell you why the code was written](https://www.mrlacey.com/2025/02/ai-cant-tell-you-why-code-was-written.html)
 - [All software is change](https://www.mrlacey.com/2024/12/all-software-is-change.html)
 - [&quot;There was no runtime pack for Microsoft.NETCore.App available for the specified RuntimeIdentifier &#39;iossimulator-x64&#39;&quot; - Keep your file and folder names alphanumeric](https://www.mrlacey.com/2024/12/there-was-no-runtime-pack-for.html)
 - [Open Source Software and &quot;the Church of England&#39;s problem&quot;](https://www.mrlacey.com/2024/11/open-source-software-and-church-of.html)
-- [Even more testing nonsense with generated tests](https://www.mrlacey.com/2024/11/even-more-testing-nonsense-with.html)
-- [The future of software development is testing](https://www.mrlacey.com/2024/11/the-future-of-software-development-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
