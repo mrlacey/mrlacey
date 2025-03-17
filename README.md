@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Speaking at conferences and being careful about what I wish for](https://www.mrlacey.com/2025/03/speaking-at-conferences-and-being.html)
+- [Windows Phone - I remember you well - Now what?](https://www.mrlacey.com/2025/03/windows-phone-i-remember-you-well-now.html)
 - [Improving accessibility in MAUI](https://www.mrlacey.com/2025/02/improving-accessibility-in-maui.html)
 - [What is involved in making XAML &quot;better&quot;?](https://www.mrlacey.com/2025/02/what-is-involved-in-making-xaml-better.html)
 - [when &quot;make it work, make it right, then make it fast&quot; was wrong!](https://www.mrlacey.com/2025/02/when-make-it-work-make-it-right-then.html)
-- [&quot;We don&#39;t write design docs, we write code&quot;](https://www.mrlacey.com/2025/02/we-dont-write-design-docs-we-write-code.html)
-- [AI can&#39;t tell you why the code was written](https://www.mrlacey.com/2025/02/ai-cant-tell-you-why-code-was-written.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
