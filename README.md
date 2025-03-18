@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why UI code matters](https://www.mrlacey.com/2025/03/why-ui-code-matters.html)
+- [If it&#39;s a &quot;proper&quot; programming language is irrelevant](https://www.mrlacey.com/2025/03/if-its-proper-programming-language-is.html)
+- [99.985% of coding is maintenance*](https://www.mrlacey.com/2025/03/99985-of-coding-is-maintenance.html)
+- [&quot;This is just demo code&quot; is not an excuse](https://www.mrlacey.com/2025/03/this-is-just-demo-code-is-not-excuse.html)
 - [Speaking at conferences and being careful about what I wish for](https://www.mrlacey.com/2025/03/speaking-at-conferences-and-being.html)
-- [Windows Phone - I remember you well - Now what?](https://www.mrlacey.com/2025/03/windows-phone-i-remember-you-well-now.html)
-- [Improving accessibility in MAUI](https://www.mrlacey.com/2025/02/improving-accessibility-in-maui.html)
-- [What is involved in making XAML &quot;better&quot;?](https://www.mrlacey.com/2025/02/what-is-involved-in-making-xaml-better.html)
-- [when &quot;make it work, make it right, then make it fast&quot; was wrong!](https://www.mrlacey.com/2025/02/when-make-it-work-make-it-right-then.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
