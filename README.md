@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everybody &quot;needs&quot; to be capturing emails](https://www.mrlacey.com/2025/03/everybody-needs-to-be-capturing-emails.html)
+- [Variations on &quot;the boy scout rule&quot; in coding](https://www.mrlacey.com/2025/03/variations-on-boy-scout-rule-in-coding.html)
+- [Maintainable software requires these three things](https://www.mrlacey.com/2025/03/maintainable-software-requires-these.html)
+- [&quot;As an architect, part of my job is to improve the way we do things&quot;](https://www.mrlacey.com/2025/03/as-architect-part-of-my-job-is-to.html)
 - [Why UI code matters](https://www.mrlacey.com/2025/03/why-ui-code-matters.html)
-- [If it&#39;s a &quot;proper&quot; programming language is irrelevant](https://www.mrlacey.com/2025/03/if-its-proper-programming-language-is.html)
-- [99.985% of coding is maintenance*](https://www.mrlacey.com/2025/03/99985-of-coding-is-maintenance.html)
-- [&quot;This is just demo code&quot; is not an excuse](https://www.mrlacey.com/2025/03/this-is-just-demo-code-is-not-excuse.html)
-- [Speaking at conferences and being careful about what I wish for](https://www.mrlacey.com/2025/03/speaking-at-conferences-and-being.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
