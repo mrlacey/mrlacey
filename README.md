@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why did you need to change 8 files to add one checkbox?](https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html)
+- [Why build a native app?](https://www.mrlacey.com/2025/03/why-build-native-app.html)
 - [Everybody &quot;needs&quot; to be capturing emails](https://www.mrlacey.com/2025/03/everybody-needs-to-be-capturing-emails.html)
 - [Variations on &quot;the boy scout rule&quot; in coding](https://www.mrlacey.com/2025/03/variations-on-boy-scout-rule-in-coding.html)
 - [Maintainable software requires these three things](https://www.mrlacey.com/2025/03/maintainable-software-requires-these.html)
-- [&quot;As an architect, part of my job is to improve the way we do things&quot;](https://www.mrlacey.com/2025/03/as-architect-part-of-my-job-is-to.html)
-- [Why UI code matters](https://www.mrlacey.com/2025/03/why-ui-code-matters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
