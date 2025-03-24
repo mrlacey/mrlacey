@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why do I care about XAML if I have such seemingly lofty software development goals?](https://www.mrlacey.com/2025/03/why-do-i-care-about-xaml-if-i-have-such.html)
+- [Software development as &quot;creative problem solving&quot; - and me.](https://www.mrlacey.com/2025/03/software-development-as-creative.html)
+- [Job titles in tech compared with other collaborative work in creative industries](https://www.mrlacey.com/2025/03/collaborative-work-and-software-creation.html)
 - [The state &lpar;&amp; future?&rpar; of XAML - A summary of a summary](https://www.mrlacey.com/2025/03/the-state-future-of-xaml-summary-of.html)
 - [My talk at MAUI Day in London](https://www.mrlacey.com/2025/03/my-talk-at-maui-day-in-london.html)
-- [Why did you need to change 8 files to add one checkbox?](https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html)
-- [Why build a native app?](https://www.mrlacey.com/2025/03/why-build-native-app.html)
-- [Everybody &quot;needs&quot; to be capturing emails](https://www.mrlacey.com/2025/03/everybody-needs-to-be-capturing-emails.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
