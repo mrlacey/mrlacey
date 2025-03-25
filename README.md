@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Four views of XAML development](https://www.mrlacey.com/2025/03/four-views-of-xaml-development.html)
 - [Why do I care about XAML if I have such seemingly lofty software development goals?](https://www.mrlacey.com/2025/03/why-do-i-care-about-xaml-if-i-have-such.html)
 - [Software development as &quot;creative problem solving&quot; - and me.](https://www.mrlacey.com/2025/03/software-development-as-creative.html)
 - [Job titles in tech compared with other collaborative work in creative industries](https://www.mrlacey.com/2025/03/collaborative-work-and-software-creation.html)
 - [The state &lpar;&amp; future?&rpar; of XAML - A summary of a summary](https://www.mrlacey.com/2025/03/the-state-future-of-xaml-summary-of.html)
-- [My talk at MAUI Day in London](https://www.mrlacey.com/2025/03/my-talk-at-maui-day-in-london.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
