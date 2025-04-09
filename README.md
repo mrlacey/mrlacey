@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I am not a futurist](https://www.mrlacey.com/2025/04/i-am-not-futurist.html)
 - [Never create an IValueConverter again?](https://www.mrlacey.com/2025/04/never-create-ivalueconverter-again.html)
 - [Of course documentation shouldn&#39;t be like this!](https://www.mrlacey.com/2025/03/of-course-documentation-shouldnt-be.html)
 - [Four views of XAML development](https://www.mrlacey.com/2025/03/four-views-of-xaml-development.html)
 - [Why do I care about XAML if I have such seemingly lofty software development goals?](https://www.mrlacey.com/2025/03/why-do-i-care-about-xaml-if-i-have-such.html)
-- [Software development as &quot;creative problem solving&quot; - and me.](https://www.mrlacey.com/2025/03/software-development-as-creative.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
