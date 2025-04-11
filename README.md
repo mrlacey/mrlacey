@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing a framework to build a native app on Windows with .NET](https://www.mrlacey.com/2025/04/choosing-framework-to-build-native-app.html)
+- [What does it mean to &quot;design&quot; an app?](https://www.mrlacey.com/2025/04/what-does-it-mean-to-design-app.html)
 - [I am not a futurist](https://www.mrlacey.com/2025/04/i-am-not-futurist.html)
 - [Never create an IValueConverter again?](https://www.mrlacey.com/2025/04/never-create-ivalueconverter-again.html)
 - [Of course documentation shouldn&#39;t be like this!](https://www.mrlacey.com/2025/03/of-course-documentation-shouldnt-be.html)
-- [Four views of XAML development](https://www.mrlacey.com/2025/03/four-views-of-xaml-development.html)
-- [Why do I care about XAML if I have such seemingly lofty software development goals?](https://www.mrlacey.com/2025/03/why-do-i-care-about-xaml-if-i-have-such.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
