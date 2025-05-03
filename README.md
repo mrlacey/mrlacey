@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My second rule of testing](https://www.mrlacey.com/2025/05/my-second-rule-of-testing.html)
 - [Agentic programming makes me want to stop programming and also do it more](https://www.mrlacey.com/2025/04/agentic-programming-makes-me-want-to.html)
 - [Three types of technical debt](https://www.mrlacey.com/2025/04/three-types-of-technical-debt.html)
 - [Choosing a framework to build a native app on Windows with .NET](https://www.mrlacey.com/2025/04/choosing-framework-to-build-native-app.html)
 - [What does it mean to &quot;design&quot; an app?](https://www.mrlacey.com/2025/04/what-does-it-mean-to-design-app.html)
-- [I am not a futurist](https://www.mrlacey.com/2025/04/i-am-not-futurist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
