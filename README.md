@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When a one second saving was worth £10K each day](https://www.mrlacey.com/2025/05/when-one-second-saving-was-worth-10k.html)
+- [ENAMEL: More than a DSL for writing XAML](https://www.mrlacey.com/2025/05/enamel-more-than-dsl-for-writing-xaml.html)
 - [Sales, Marketing, and Advertising](https://www.mrlacey.com/2025/05/sales-marketing-and-advertising.html)
 - [Developers using &quot;AI&quot; is like learning JavaScript or jQuery](https://www.mrlacey.com/2025/05/developers-using-ai-is-like-learning.html)
 - [19 Questions to ask before migrating a Xamarin app to .NET MAUI](https://www.mrlacey.com/2025/05/19-questions-to-ask-before-migrating.html)
-- [My second rule of testing](https://www.mrlacey.com/2025/05/my-second-rule-of-testing.html)
-- [Agentic programming makes me want to stop programming and also do it more](https://www.mrlacey.com/2025/04/agentic-programming-makes-me-want-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
