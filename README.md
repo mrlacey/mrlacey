@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI will solve all our problems....?](https://www.mrlacey.com/2025/05/ai-will-solve-all-our-problems.html)
+- [Improve .NET MAUI&#39;s AppThemeBinding?](https://www.mrlacey.com/2025/05/improve-net-mauis-appthemebinding.html)
 - [When I built six apps in under 4 weeks](https://www.mrlacey.com/2025/05/when-i-built-six-apps-in-under-4-weeks.html)
 - [When process improvements can be more valuable than code changes](https://www.mrlacey.com/2025/05/when-process-improvements-can-be-more.html)
 - [When a one second saving was worth £10K each day](https://www.mrlacey.com/2025/05/when-one-second-saving-was-worth-10k.html)
-- [ENAMEL: More than a DSL for writing XAML](https://www.mrlacey.com/2025/05/enamel-more-than-dsl-for-writing-xaml.html)
-- [Sales, Marketing, and Advertising](https://www.mrlacey.com/2025/05/sales-marketing-and-advertising.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
