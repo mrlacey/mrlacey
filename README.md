@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI will solve all our problems....?](https://www.mrlacey.com/2025/05/ai-will-solve-all-our-problems.html)
-- [Improve .NET MAUI&#39;s AppThemeBinding?](https://www.mrlacey.com/2025/05/improve-net-mauis-appthemebinding.html)
-- [When I built six apps in under 4 weeks](https://www.mrlacey.com/2025/05/when-i-built-six-apps-in-under-4-weeks.html)
-- [When process improvements can be more valuable than code changes](https://www.mrlacey.com/2025/05/when-process-improvements-can-be-more.html)
-- [When a one second saving was worth £10K each day](https://www.mrlacey.com/2025/05/when-one-second-saving-was-worth-10k.html)
+- [Will AI make all code eventually look like demo code?](https://www.mrlacey.com/2025/05/will-ai-make-all-code-eventually-look.html)
+- [I went to Interesting 2025](https://www.mrlacey.com/2025/05/i-went-to-interesting-2025.html)
+- [INotifyPodcastChanged: Working with XAML](https://www.mrlacey.com/2025/05/notifypodcastchanged-working-with-xaml.html)
+- [I&#39;m making Visual Studio less secure because I won&#39;t pay a 3rd party for security theatre](https://www.mrlacey.com/2025/05/im-making-visual-studio-less-secure.html)
+- [ENAMEL RFC Revision 1](https://www.mrlacey.com/2025/05/enamel-rfc-revision-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
