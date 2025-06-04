@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Have LLMs made code-coverage a meaningless statistic?](https://www.mrlacey.com/2025/06/have-llms-made-code-coverage.html)
+- [The problem with multi-word terms &lpar;including &quot;vibe coding&quot;&rpar;](https://www.mrlacey.com/2025/06/the-problem-with-multi-word-terms.html)
 - [Will AI make all code eventually look like demo code?](https://www.mrlacey.com/2025/05/will-ai-make-all-code-eventually-look.html)
 - [I went to Interesting 2025](https://www.mrlacey.com/2025/05/i-went-to-interesting-2025.html)
 - [INotifyPodcastChanged: Working with XAML](https://www.mrlacey.com/2025/05/notifypodcastchanged-working-with-xaml.html)
-- [I&#39;m making Visual Studio less secure because I won&#39;t pay a 3rd party for security theatre](https://www.mrlacey.com/2025/05/im-making-visual-studio-less-secure.html)
-- [ENAMEL RFC Revision 1](https://www.mrlacey.com/2025/05/enamel-rfc-revision-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
