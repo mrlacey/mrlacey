@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why feed pizza to developers at meetups?](https://www.mrlacey.com/2025/07/why-feed-pizza-to-developers-at-meetups.html)
+- [&quot;Testing in production&quot;](https://www.mrlacey.com/2025/07/testing-in-production.html)
 - [Maybe don&#39;t think of MCP servers as an alternative to your API](https://www.mrlacey.com/2025/06/maybe-dont-think-of-mcp-servers-as.html)
 - [Sometimes we need people to run ahead](https://www.mrlacey.com/2025/06/sometimes-we-need-people-to-run-ahead.html)
 - [Have LLMs made code-coverage a meaningless statistic?](https://www.mrlacey.com/2025/06/have-llms-made-code-coverage.html)
-- [The problem with multi-word terms &lpar;including &quot;vibe coding&quot;&rpar;](https://www.mrlacey.com/2025/06/the-problem-with-multi-word-terms.html)
-- [Will AI make all code eventually look like demo code?](https://www.mrlacey.com/2025/05/will-ai-make-all-code-eventually-look.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
