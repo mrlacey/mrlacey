@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [what &quot;everyone&quot; gets wrong about &quot;write once run everywhere&quot;](https://www.mrlacey.com/2025/07/what-everyone-gets-wrong-about-write.html)
 - [How much does start-up time matter when choosing a framework?](https://www.mrlacey.com/2025/07/how-much-does-start-up-time-matter-when.html)
 - [Why feed pizza to developers at meetups?](https://www.mrlacey.com/2025/07/why-feed-pizza-to-developers-at-meetups.html)
 - [&quot;Testing in production&quot;](https://www.mrlacey.com/2025/07/testing-in-production.html)
 - [Maybe don&#39;t think of MCP servers as an alternative to your API](https://www.mrlacey.com/2025/06/maybe-dont-think-of-mcp-servers-as.html)
-- [Sometimes we need people to run ahead](https://www.mrlacey.com/2025/06/sometimes-we-need-people-to-run-ahead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
