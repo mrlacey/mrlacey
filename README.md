@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How quickly can a Windows application launch?](https://www.mrlacey.com/2025/07/how-quickly-can-windows-application.html)
 - [What makes a good teacher of technology?](https://www.mrlacey.com/2025/07/what-makes-good-teacher-of-technology.html)
 - [what &quot;everyone&quot; gets wrong about &quot;write once run everywhere&quot;](https://www.mrlacey.com/2025/07/what-everyone-gets-wrong-about-write.html)
 - [How much does start-up time matter when choosing a framework?](https://www.mrlacey.com/2025/07/how-much-does-start-up-time-matter-when.html)
 - [Why feed pizza to developers at meetups?](https://www.mrlacey.com/2025/07/why-feed-pizza-to-developers-at-meetups.html)
-- [&quot;Testing in production&quot;](https://www.mrlacey.com/2025/07/testing-in-production.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
