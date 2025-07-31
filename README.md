@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Apps London &lpar;formerly Windows Phone User Group&rpar; - it was good while it lasted](https://www.mrlacey.com/2025/07/windows-apps-london-formerly-windows.html)
 - [Why developers should be excited about implementing migrations](https://www.mrlacey.com/2025/07/why-developers-should-be-excited-about.html)
 - [How quickly can a Windows application launch?](https://www.mrlacey.com/2025/07/how-quickly-can-windows-application.html)
 - [What makes a good teacher of technology?](https://www.mrlacey.com/2025/07/what-makes-good-teacher-of-technology.html)
 - [what &quot;everyone&quot; gets wrong about &quot;write once run everywhere&quot;](https://www.mrlacey.com/2025/07/what-everyone-gets-wrong-about-write.html)
-- [How much does start-up time matter when choosing a framework?](https://www.mrlacey.com/2025/07/how-much-does-start-up-time-matter-when.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
