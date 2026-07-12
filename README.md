@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is second-order enshittification a thing?](https://www.mrlacey.com/2026/07/is-second-order-enshittification-thing.html)
 - [Resetting the experimental instance of Visual Studio has changed in 2026 &lpar;v18&rpar;](https://www.mrlacey.com/2025/11/resetting-experimental-instance-of.html)
 - [Is writing a test a good contribution to an open source project?](https://www.mrlacey.com/2025/08/is-writing-test-good-contribution-to.html)
 - [Miscellaneous AI-related questions](https://www.mrlacey.com/2025/08/miscellaneous-ai-related-questions.html)
 - [Windows Apps London &lpar;formerly Windows Phone User Group&rpar; - it was good while it lasted](https://www.mrlacey.com/2025/07/windows-apps-london-formerly-windows.html)
-- [Why developers should be excited about implementing migrations](https://www.mrlacey.com/2025/07/why-developers-should-be-excited-about.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
