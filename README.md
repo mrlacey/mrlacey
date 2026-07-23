@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Human questions to ask in code reviews](https://www.mrlacey.com/2026/07/human-questions-to-ask-in-code-reviews.html)
 - [Is second-order enshittification a thing?](https://www.mrlacey.com/2026/07/is-second-order-enshittification-thing.html)
+- [It&#39;s probably not an MVP](https://www.mrlacey.com/2026/04/its-probably-not-mvp.html)
 - [Resetting the experimental instance of Visual Studio has changed in 2026 &lpar;v18&rpar;](https://www.mrlacey.com/2025/11/resetting-experimental-instance-of.html)
 - [Is writing a test a good contribution to an open source project?](https://www.mrlacey.com/2025/08/is-writing-test-good-contribution-to.html)
-- [Miscellaneous AI-related questions](https://www.mrlacey.com/2025/08/miscellaneous-ai-related-questions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
