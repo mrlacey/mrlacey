@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code AI can&#39;t write? - I have 6 examples](https://www.mrlacey.com/2026/10/code-ai-cant-write-i-have-6-examples.html)
 - [Is &quot;QA&quot; just about manual testing?](https://www.mrlacey.com/2026/10/is-qa-just-about-manual-testing.html)
 - [VS [Code] Marketplace error: &quot;An item with the same key has already been added.&quot;](https://www.mrlacey.com/2026/09/vs-code-marketplace-error-item-with.html)
 - [Human questions to ask in code reviews](https://www.mrlacey.com/2026/07/human-questions-to-ask-in-code-reviews.html)
 - [Is second-order enshittification a thing?](https://www.mrlacey.com/2026/07/is-second-order-enshittification-thing.html)
-- [It&#39;s probably not an MVP](https://www.mrlacey.com/2026/04/its-probably-not-mvp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
